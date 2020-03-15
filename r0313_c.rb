@@ -22,4 +22,5 @@ end
 dd = Dog.new
 dd.walk
 
- #   < 繼承
+ #   < 繼承 
+SAD QWQ 0315
